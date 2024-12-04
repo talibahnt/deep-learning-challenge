@@ -71,18 +71,6 @@ Using your knowledge of TensorFlow, you’ll design a neural network, or deep le
 9.	Evaluate the model using the test data to determine the loss and accuracy.
 10.	Save and export your results to an HDF5 file. Name the file AlphabetSoupCharity.h5.
 
-
-
-
-
-
-
-
-
-
-
-
-
 Step 3: Optimize the Model
 Using your knowledge of TensorFlow, optimize your model to achieve a target predictive accuracy higher than 75%.
 Use any or all of the following methods to optimize your model:
